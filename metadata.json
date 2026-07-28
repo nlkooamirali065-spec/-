@@ -1,0 +1,6 @@
+{
+  "name": "Nika Messenger - پیام‌رسان نیکا",
+  "description": "پیام‌رسان نیکا - گفتگو، گروه، کانال و دستیار هوش مصنوعی نیکا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
